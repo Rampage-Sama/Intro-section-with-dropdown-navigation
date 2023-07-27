@@ -59,4 +59,6 @@
 
   body {
     background-color: var(--almost-white);
+    font-size: var(--fs-para);
+    font-family: var(--ff);
   }
