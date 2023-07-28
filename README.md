@@ -8,7 +8,7 @@
 <!--About web application -->
 ## What it is?
 
- _Intro section with dropdown navigation_ is a landing page .
+ _Intro section with dropdown navigation_ is a interactive mobile friendly landing page with drop down menus.
 
 ## What it does?
 
