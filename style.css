@@ -105,7 +105,7 @@ nav {
   position: absolute;
   background-color: white;
   gap: 1rem;
-  box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 10px 3px rgba(136, 136, 136, 0.75);
   padding: 1rem;
   border-radius: 10px;
 }
