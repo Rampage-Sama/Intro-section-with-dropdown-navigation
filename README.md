@@ -1,4 +1,3 @@
-# Frontend Mentor - Intro section with dropdown navigation
 
 <!--Heading -->
 # **Intro section with dropdown navigation**
