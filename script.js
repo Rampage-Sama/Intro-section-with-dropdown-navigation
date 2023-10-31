@@ -4,6 +4,7 @@ const mobileMenu = document.querySelector(".mobile-menu");
 const overflow = document.querySelector(".overflow");
 const mobileLinks = document.querySelectorAll(".mobile-links li");
 
+//Navigation dropdown 
 menuBtn.addEventListener("click", () => {
   const icon = document.querySelector(".mobile-menu-btn img");
   menuBtn.classList.toggle("active-btn");
