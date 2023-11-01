@@ -17,6 +17,7 @@ menuBtn.addEventListener("click", () => {
   }
 });
 
+//Navigation 
 navLinks.forEach((link) => {
   const subMenu = link.querySelector(".sub-menu");
   link.addEventListener("click", () => {
