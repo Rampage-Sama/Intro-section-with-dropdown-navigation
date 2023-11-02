@@ -25,6 +25,8 @@ navLinks.forEach((link) => {
     subMenu.classList.toggle("active-menu");
   });
 });
+
+//Mobile navigation 
 mobileLinks.forEach((link) => {
   const subMenu = link.querySelector(".mobile-sub");
   link.addEventListener("click", () => {
